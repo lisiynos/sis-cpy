@@ -7,5 +7,14 @@ python:
     - pypy3
 script:
     - python day_01.py
+    - python day_01_files.py
+    - python day_01_files2.py
+    - python day_02_search.py
+    - python day_04_hashes.py
+    - python lazy_dp.py
+    - python MergeSort.py
+    - python sort.py
+    - python sort2.py
+    - python x.py
 matrix:
     fast_finish: true
